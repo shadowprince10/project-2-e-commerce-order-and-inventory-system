@@ -1,0 +1,27 @@
+# Compiled binaries and object files
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+
+# Testing files
+*.test 
+*.out
+
+# Go Module Caches and Vendor folder
+/vendor 
+/pkg
+
+# Executable binary created by go build
+project-2-e-commerce-order-and-inventory-system
+
+# Environment variables (secrets/config)
+.env 
+.env.local
+
+# Editor/OS specific files
+.vscode/
+.DS_Store
+*~
